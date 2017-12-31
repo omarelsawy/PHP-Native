@@ -1,0 +1,62 @@
+
+/*start main rules*/
+
+body{
+    background-color: #f4f4f4;
+}
+
+/*end main rules*/
+
+/*start login form*/
+
+.login {
+    width: 300px;
+    margin: 100px auto;
+}
+
+.login input{
+    margin-bottom: 10px;
+}
+
+/*end login form*/
+
+.form-control{
+    position: relative;
+}
+
+.astric{
+    font-size: 25px;
+    position: absolute;
+    right: 30px;
+    top: 0;
+    color: red;
+}
+
+.catname {
+}
+
+.view2{
+    display: none;
+}
+
+.toggle-info{
+    cursor: pointer;
+}
+
+.panel-body{
+    margin-top: 25px;
+}
+
+.main-table img{
+    width: 50px;
+}
+
+
+
+
+
+
+
+
+
+
